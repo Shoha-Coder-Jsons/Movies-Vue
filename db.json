@@ -1,0 +1,196 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "name": "Spider Man 1",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 2,
+            "name": "Spider Man 2",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 3,
+            "name": "spider man 3",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 4,
+            "name": "The Amazing Spider-Man",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 5,
+            "name": "The Amazing Spider-Man 2",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 6,
+            "name": "Spider Man: Homecoming",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 7,
+            "name": "Spider Man: Into the Spider-Verse",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 8,
+            "name": "Spider Man: Far from Home",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 9,
+            "name": "Spider Man No Way Home",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 10,
+            "name": "Spider-Man: Across the Spider-Verse",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 11,
+            "name": "Thor 1",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 12,
+            "name": "Thor: The Dark World",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 13,
+            "name": " Thor: Ragnarok",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 14,
+            "name": "Thor: Love and Thunder",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 15,
+            "name": "Iron Man 1",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 16,
+            "name": "Iron Man 2",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 17,
+            "name": "Iron Man 3",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 18,
+            "name": "Captain America: The First Avenger",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 19,
+            "name": "Captain America: The Winter Soldier",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 20,
+            "name": "Captain America: CIVIL WAR",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 21,
+            "name": "Captain Marvel 1",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 22,
+            "name": "Captain Marvel 2",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 24,
+            "name": "Dr Strange 1",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        },
+        {
+            "id": 25,
+            "name": "Doctor Strange in the Multiverse of Madness",
+            "viewers": " ",
+            "isFavourite": false,
+            "isCookiesEnabled": false,
+            "isTrash": false
+        }
+    ]
+}
